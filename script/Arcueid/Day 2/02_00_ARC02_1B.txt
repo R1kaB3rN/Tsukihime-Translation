@@ -179,7 +179,7 @@ About ten minutes pass by.
 [sha:d6f5951d9371018f57ce76beceb37d3cb1221868]{
 -- Page 49, Offset 2730.
 -- 俺も秋葉も紅茶を楽しむだけで、これといった会話はかわされなかった。
-Akiha and I didn't exchange any more words, we simply enjoyed our tea.
+Akiha and I didn't exchange any more words; we simply enjoyed our tea.
 }
 [sha:2984a4e96de391051bc6bf12d8fa198714113861]{
 -- Page 49, Offset 2731.
