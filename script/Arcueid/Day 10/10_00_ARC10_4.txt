@@ -1403,7 +1403,7 @@ This sort of food tastes pretty dire once it gets cold."
 [sha:e0f850edb58246a8ebccb55df154fb5baba28a18]{
 -- Page 394, Offset 25260.
 -- でもこれ、もともと美味しくないと思うよ？　志貴の味覚って、ちょっとアレよね」
-Though, I have to say it doesn't taste that great to begin with?
+Though, I have to say, it doesn't taste that great to begin with?
  Your palate may be, well, %{i}different%{/i}."
 }
 [sha:759d8b9cd01b461c59088bf3248caa471e8bace2]{
