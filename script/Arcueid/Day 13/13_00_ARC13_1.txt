@@ -597,7 +597,7 @@ The collapsed, blood-soaked figure was SHIKI, not me...
 -- Page 39, Offset 31783.
 -- 「……遠野家の人間は、個人差はあれど歳をとるごとに自分の中の異なる血が増えていきます。この血は、あまりいいものではないんです。
 "The details vary from person to person,
- but as a general rule, the deviant blood that runs in the members of the Tohno family grows stronger with age.
+ but, as a general rule, the deviant blood that runs in the members of the Tohno family grows stronger with age.
  This blood isn't exactly something you could consider good.
 }
 [sha:ddcf3db3bcadb2e7bdbbc062b8c4a0c62e1a2def]{
@@ -615,7 +615,7 @@ The xenogenetic material mixed in with the Tohno bloodline carries a survival in
 [sha:a1012aa54e46da332f409c4575754374632f0b3b]{
 -- Page 40, Offset 31786.
 -- 「……わかってます。にわかには信じられない話でしょうから、今は黙って聞いてください」
-"I know... This may be a lot to take in all at once, but just be quiet and listen for now."
+"I know... This may be a lot to take in all at once, but please be quiet and listen for now."
 }
 [sha:d7d7a58acb8a7372f6ce7de22bae83546b8056c2]{
 -- Page 41, Offset 31787.
