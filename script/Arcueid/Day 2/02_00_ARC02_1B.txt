@@ -608,7 +608,7 @@ An inexpressible silence envelops the living room.
 -- お父様の遺言の関係で、屋敷本館への出入りと手入れを一任されている方です。お父様は建築家として重宝なさっていたとか。ご本人曰く、建築業は副業だそうですが」
 But due to Father's will, she is in charge of the maintenance and management of the mansion.
  I heard that he highly valued her as an architect.
- According to Arach herself however, this seems to have been something she did on the side."
+ According to Arach herself, however, this seems to have been something she did on the side."
 }
 [sha:a09e551d16dbaab6854444f2adc599ff8adb44d7]{
 -- Page 81, Offset 2815.
