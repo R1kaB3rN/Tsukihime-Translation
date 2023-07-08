@@ -645,7 +645,7 @@ You have a distant look on your face. What's wrong?"
 [sha:0d6e3c3ea13d2d3afe5c81c1cb551b7b1d9d7018]{
 -- Page 411, Offset 2206.
 -- 「あ、いや、感心したというか、感動したというか……、本当に当主として認められたんだな」
-"Oh, no, I'm impressed. Or rather, I'm moved...
+"Oh, no, I'm impressed... or rather, I'm moved...
  You've really been acknowledged as the head of the family."
 }
 [sha:24f84b82da7b1e05b4df94a0fe237423e6caf9a6]{
